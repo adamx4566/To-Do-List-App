@@ -16,4 +16,4 @@ It allows you to add, complete, and delete tasks. All tasks are saved in **Local
 - CSS3
 - Vanilla JavaScript
 
-<img src="Unit Converter/pictures/UnitConverter.png" alt="To-Do List App Preview" width="500">
+<img src="To-Do List App/Pictures/To-Do List App.png" alt="To-Do List App Preview" width="500">
