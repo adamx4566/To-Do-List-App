@@ -1,7 +1,5 @@
 # To-Do-List-App
 
-# To-Do List App
-
 A simple and modern To-Do List application built with HTML, CSS, and JavaScript.  
 It allows you to add, complete, and delete tasks. All tasks are saved in **LocalStorage** so they remain after refreshing the page.  
 
